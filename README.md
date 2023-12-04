@@ -1,6 +1,6 @@
 :wave: Hey, I'm Nina
 
-:woman_technologist: About Me:
+About Me:
 ___
 
 
